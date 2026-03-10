@@ -1,7 +1,3 @@
-enum DiaSemana {
-    SEGUNDA, TERCA, QUARTA, QUINTA, SEXTA, SABADO, DOMINGO
-}
-
 public class Variaveis {
     public static void main(String[] args) {
 

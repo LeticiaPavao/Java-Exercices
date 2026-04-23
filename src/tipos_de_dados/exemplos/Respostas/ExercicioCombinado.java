@@ -1,6 +1,7 @@
 /**
  * Leia as coordenadas de dois pontos no plano cartesiano (x1, y1) e (x2, y2) como double e calcule a 
  * distância entre eles usando a fórmula:
+ * 
 distancia = Math.sqrt( Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2) )
 
 formula da distância: raiz quadrada de (x2 - x1)^2 + (y2 - y1)^2

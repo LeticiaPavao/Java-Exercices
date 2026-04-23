@@ -1,3 +1,4 @@
+
 public class Array {
     public static void main(String[] args){
         // array são estruturas de dados que armazenam uma coleção de elementos do mesmo tipo.

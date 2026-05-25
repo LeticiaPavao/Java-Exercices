@@ -1,3 +1,4 @@
+package exemplos.respostas;
 /**
  * Leia três notas float e calcule a média ponderada com 
  * pesos 2, 3 e 5, respectivamente. 

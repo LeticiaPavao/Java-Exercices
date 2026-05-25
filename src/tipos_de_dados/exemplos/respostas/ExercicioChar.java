@@ -1,3 +1,4 @@
+package exemplos.respostas;
 /**
  * Leia um caractere e verifique se ele é uma vogal (maiúscula ou minúscula). 
  * Dica: compare com 'a', 'e', 'i', 'o', 'u' e as versões maiúsculas.

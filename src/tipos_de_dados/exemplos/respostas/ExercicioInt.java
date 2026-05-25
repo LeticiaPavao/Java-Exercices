@@ -1,3 +1,4 @@
+package exemplos.respostas;
 /**
  *  Escreva um programa que leia três números inteiros e mostre:
 

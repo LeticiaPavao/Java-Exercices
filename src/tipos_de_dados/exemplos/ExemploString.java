@@ -1,3 +1,6 @@
+package exemplos;
+
+
 import java.util.Scanner;
 
 public class ExemploString {

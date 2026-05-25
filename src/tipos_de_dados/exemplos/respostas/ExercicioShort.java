@@ -1,3 +1,4 @@
+package exemplos.respostas;
 /**
  * Faça um programa que leia dois números short e calcule a potência do primeiro elevado ao 
  * segundo, usando Math.pow(). Exiba o resultado como double.

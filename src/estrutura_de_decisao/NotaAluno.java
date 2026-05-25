@@ -13,8 +13,10 @@ public class NotaAluno {
             System.out.println("B");
         } else if(nota >= 5 && nota < 7){
             System.out.println("R");
-        } else {
+        } else if(nota < 5){
             System.out.println("I");
+        } else {
+            System.out.println("Nota inválida");
         }
 
         scanner.close();

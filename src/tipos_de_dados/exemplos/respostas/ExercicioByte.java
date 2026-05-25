@@ -1,3 +1,4 @@
+package exemplos.respostas;
 /*Exercício
 Crie um programa que leia três valores do tipo byte e calcule a média aritmética deles. 
 O resultado deve ser exibido como double.

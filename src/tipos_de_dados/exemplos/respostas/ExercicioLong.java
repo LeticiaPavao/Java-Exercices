@@ -1,3 +1,4 @@
+package exemplos.respostas;
 /*
  * Crie um programa que leia um valor em segundos (tipo long) e converta para horas, 
  * minutos e segundos. 

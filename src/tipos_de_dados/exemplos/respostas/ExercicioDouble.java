@@ -1,3 +1,4 @@
+package exemplos.respostas;
 /**
  * Leia os valores dos dois catetos de um triângulo retângulo (double) e calcule a hipotenusa 
  * usando a fórmula: hip = Math.sqrt(cateto1*cateto1 + cateto2*cateto2).

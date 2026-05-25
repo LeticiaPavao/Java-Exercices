@@ -1,3 +1,4 @@
+package exemplos.respostas;
 /**
  * Leia as coordenadas de dois pontos no plano cartesiano (x1, y1) e (x2, y2) como double e calcule a 
  * distância entre eles usando a fórmula:

@@ -1,3 +1,4 @@
+package exemplos.respostas;
 /**
  *  Leia uma palavra (String) e exiba:
 
